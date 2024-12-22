@@ -1,3 +1,4 @@
+![born2beroot](born2beroot.png)
 # Born2beroot
 
 Le projet **Born2beroot** consiste à la mise en place d'un serveur sécurisé sous Linux en configurant plusieurs services et paramètres de sécurité. Ce projet a été réalisé sur une machine virtuelle (VM) et couvre différentes tâches liées à la gestion des partitions, des services, de la sécurité et du monitoring d'un système.
